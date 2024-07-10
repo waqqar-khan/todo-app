@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+  background-color: aqua;
+}
+
+.header {
+  margin-top: 10vh;
+  font-size: xx-large;
+}
+
+.inputbox {
+  margin-top: 10vh;
+  padding: 1.5vh;
+  width: 40vh;
+}
+
+.submit-btn {
+  padding: 1.5vh;
+  background-color: #1240e8;
+  color: white;
+}
+
+.InputForm form {
+  margin-bottom: 20px;
+}
+
+.list-items {
+  list-style: none;
+  width: 80vh;
+  display: flex;
+  margin: 0 auto;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.list-text {
+  display: flex;
+}
+
+.list-text div {
+  padding-left: 5px;
+  width: 60vh;
+  overflow-wrap: break-word;
+  text-align: start;
+}
+
+.list-btn button {
+  padding: 10px;
+  margin-left: 2px;
+  background-color: #7a8bc9;
+  color: white;
+  font-weight: bolder;
+}
+
+hr {
+  width: 80vh;
+}
